@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "77f3a527-639e-4175-b067-d6d8184cf2a1": {
+      "ProjectGuid": "77f3a527-639e-4175-b067-d6d8184cf2a1",
+      "DisplayName": "ChatApp",
+      "ColorIndex": 0
+    },
+    "f9ca335d-0652-4d37-99d6-2a4b163b5203": {
+      "ProjectGuid": "f9ca335d-0652-4d37-99d6-2a4b163b5203",
+      "DisplayName": "P132Pustok",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}
